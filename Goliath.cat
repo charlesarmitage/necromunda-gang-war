@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="0fe7-e5c2-c050-1dcb" name="Goliath" revision="1" battleScribeVersion="2.01" gameSystemId="f229-3312-9ea9-c9ee" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <profiles/>
+  <rules/>
+  <infoLinks/>
+  <costTypes/>
+  <profileTypes/>
+  <categoryEntries/>
+  <forceEntries/>
+  <selectionEntries/>
+  <entryLinks/>
+  <sharedSelectionEntries>
+    <selectionEntry id="7c60-d728-2d2b-8be0" name="Ganger" hidden="false" collective="false" type="model">
+      <profiles>
+        <profile id="e830-0f73-c91f-6452" name="Ganger" hidden="false" profileTypeId="61e8-2ca7-112f-4a99" profileTypeName="Model">
+          <profiles/>
+          <rules/>
+          <infoLinks/>
+          <modifiers/>
+          <characteristics>
+            <characteristic name="M" characteristicTypeId="5272-51a3-4707-4625" value="4&quot;"/>
+            <characteristic name="WS" characteristicTypeId="551d-59b7-6843-fd87"/>
+            <characteristic name="BS" characteristicTypeId="f748-1752-49c7-91c3"/>
+            <characteristic name="S" characteristicTypeId="3aac-798d-b4ab-5a54"/>
+            <characteristic name="T" characteristicTypeId="f4a3-33e1-083a-84c5"/>
+            <characteristic name="W" characteristicTypeId="3ba0-781e-3b2a-ef79"/>
+            <characteristic name="I" characteristicTypeId="d57b-9650-da4e-02a3"/>
+            <characteristic name="A" characteristicTypeId="4e98-efb9-6c4a-ce55"/>
+            <characteristic name="Ld" characteristicTypeId="cd6f-8fd8-2e59-dac5"/>
+            <characteristic name="Cl" characteristicTypeId="8702-0eb5-cf8c-c98d"/>
+            <characteristic name="Wil" characteristicTypeId="527f-dc67-dac4-4f4f"/>
+            <characteristic name="Int" characteristicTypeId="93ef-6585-2de8-dd76"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules/>
+      <infoLinks/>
+      <modifiers/>
+      <constraints/>
+      <categoryLinks/>
+      <selectionEntries/>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs/>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups/>
+  <sharedRules/>
+  <sharedProfiles/>
+</catalogue>

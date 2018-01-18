@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="f229-3312-9ea9-c9ee" name="Necromunda Underhive Gang War" revision="1" battleScribeVersion="2.01" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="f229-3312-9ea9-c9ee" name="Necromunda Underhive Gang War" revision="2" battleScribeVersion="2.01" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -137,6 +137,7 @@
       <entryLinks/>
       <costs>
         <cost name=" Credits" costTypeId="1047-638b-bc84-bfe7" value="15.0"/>
+        <cost name=" Experience" costTypeId="6ad6-6e8e-fe28-c448" value="0.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
@@ -171,6 +172,7 @@
           <entryLinks/>
           <costs>
             <cost name=" Experience" costTypeId="6ad6-6e8e-fe28-c448" value="1.0"/>
+            <cost name=" Credits" costTypeId="1047-638b-bc84-bfe7" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
